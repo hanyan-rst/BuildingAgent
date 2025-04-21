@@ -25,7 +25,8 @@ pip install streamlit dashscope
 streamlit run streamlit_app_simple.py
 ```
 
-2. 在浏览器中打开URL（http://127.0.0.1:8501）
+2. 在浏览器中打开URL
+   http://127.0.0.1:8501
    
 ## 文件说明
 

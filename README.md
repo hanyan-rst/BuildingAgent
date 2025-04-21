@@ -16,7 +16,7 @@
 1. Python 3.8或更高版本
 2. 安装依赖：
 ```bash
-pip install streamlit dashscope
+pip install streamlit dashscope fastapi uvicorn requests
 ```
 
 ## 使用方法
